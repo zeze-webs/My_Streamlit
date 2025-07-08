@@ -1,0 +1,115 @@
+{
+  "log": [
+    {
+      "date": "2025-06-29",
+      "status": "\ud83d\udfe5 Relapse",
+      "note": "Aku nyesel ketika lihat hari ini aku gagal lagi"
+    },
+    {
+      "date": "2025-06-30",
+      "status": "\ud83d\udfe9 Clean",
+      "note": "Alhamdulillah hari ini aman"
+    },
+    {
+      "date": "2025-07-02",
+      "status": "\ud83d\udfe9 Clean",
+      "note": "Alhamdulillah hari ini aman"
+    },
+    {
+      "date": "2025-07-03",
+      "status": "\ud83d\udfe9 Clean",
+      "note": "Hampir terperosok tapi kita harus kuat\ud83d\udd25"
+    },
+    {
+      "date": "2025-07-30",
+      "status": "\ud83d\udfe5 Relapse",
+      "note": "Aku nyesel ketika lihat hari ini aku gagal lagi"
+    },
+    {
+      "date": "2025-07-05",
+      "status": "\ud83d\udfe5 Relapse",
+      "note": "Sempat tergoda but finally i did,,, tapi akhirnya kejadian juga huhuhu\ud83d\udd25"
+    },
+    {
+      "date": "2025-07-06",
+      "status": "\ud83d\udfe9 Clean",
+      "note": "Alhamdulillah hari ini aman"
+    },
+    {
+      "date": "2025-07-07",
+      "status": "\ud83d\udfe5 Relapse",
+      "note": "sedih karena berakhir jatuh\ud83d\ude16"
+    },
+    {
+      "date": "2025-07-08",
+      "status": "\ud83d\udfe9 Clean",
+      "note": "Alhamdulillah hari ini aman"
+    }
+  ],
+  "cycles": [
+    {
+      "id": 1,
+      "start_date": "2025-06-29",
+      "days": [
+        {
+          "date": "2025-06-29",
+          "status": "\ud83d\udfe5 Relapse",
+          "note": "Aku nyesel ketika lihat hari ini aku gagal lagi"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start_date": "2025-06-29",
+      "days": [
+        {
+          "date": "2025-06-30",
+          "status": "\ud83d\udfe9 Clean",
+          "note": "Alhamdulillah hari ini aman"
+        },
+        {
+          "date": "2025-07-02",
+          "status": "\ud83d\udfe9 Clean",
+          "note": "Alhamdulillah hari ini aman"
+        },
+        {
+          "date": "2025-07-03",
+          "status": "\ud83d\udfe9 Clean",
+          "note": "Hampir terperosok tapi kita harus kuat\ud83d\udd25"
+        },
+        {
+          "date": "2025-07-05",
+          "status": "\ud83d\udfe9 Clean",
+          "note": "Sempat tergoda but finally i did\ud83d\udd25"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start_date": "2025-07-05",
+      "days": [
+        {
+          "date": "2025-07-06",
+          "status": "\ud83d\udfe9 Clean",
+          "note": "Alhamdulillah hari ini aman"
+        },
+        {
+          "date": "2025-07-07",
+          "status": "\ud83d\udfe5 Relapse",
+          "note": "sedih karena berakhir jatuh\ud83d\ude16"
+        }
+      ]
+    }
+  ],
+  "current_cycle": {
+    "id": 4,
+    "start_date": "2025-07-07",
+    "days": [
+      {
+        "date": "2025-07-08",
+        "status": "\ud83d\udfe9 Clean",
+        "note": "Alhamdulillah hari ini aman"
+      }
+    ]
+  }
+}
